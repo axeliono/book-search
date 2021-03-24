@@ -21,17 +21,17 @@
   ## Installation Instructions: 
   Clone the repository
 Run npm start from the root of the project and you can run the development environment.
-View app at https://mighty-refuge-30785.herokuapp.com/
+View app at 
 
   ## Test: 
   To test type npm start into the terminal
 
   ## Github: 
-  Check out more project on my Github at https://github.com/peters0470
+  Check out more project on my Github at https://github.com/axeliono
 
   ## Email Address:
-  If you have any question please feel free to email me at peters0470@gmail.com
+  If you have any question please feel free to email me at chandlergreen1997@gmail.com
 
   ## Contributors:
-  Ryan Peters
+  Chandler Green
   
