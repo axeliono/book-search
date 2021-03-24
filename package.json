@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
+  "homepage": "",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
     "start:prod": "cd server && npm start",
@@ -20,6 +21,7 @@
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "apollo-server-express": "^2.21.2",
+    "gh-pages": "^3.1.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
